@@ -12,6 +12,7 @@
 - WMS 系統：[Barwand.WebAPI.BWCoreWMS](https://github.com/hsinchu-gima-software/Barwand.WebAPI.BWCoreWMS)、[fengyan-work-system](https://github.com/hsinchu-gima-software/fengyan-work-system)
 - Modbus 模擬器：[bw-modbus-simulator](https://github.com/hsinchu-gima-software/bw-modbus-simulator)、[FYWorkSys.ModbusTestTool](https://github.com/hsinchu-gima-software/FYWorkSys.ModbusTestTool)
 - WiFi Scale 模組：[yingzhan-wifi-scale-module](https://github.com/hsinchu-gima-software/yingzhan-wifi-scale-module)
+- 模板專案：[Barwand.Wpf.Template](https://github.com/hsinchu-gima-software/Barwand.Wpf.Template)
 
 ## 團隊
 - Rex
