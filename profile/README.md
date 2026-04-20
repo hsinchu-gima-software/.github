@@ -14,9 +14,9 @@
 - WiFi Scale 模組
 
 ## 團隊
-- Damien
 - Rex
 - Patrick
+- Norman
 
 ## 文件與入口
 - 內部文件（待補連結）
