@@ -9,9 +9,9 @@
 - Java（Android 專案）
 
 ## 主要專案
-- WMS 系統
-- Modbus 模擬器
-- WiFi Scale 模組
+- WMS 系統：[Barwand.WebAPI.BWCoreWMS](https://github.com/hsinchu-gima-software/Barwand.WebAPI.BWCoreWMS)、[fengyan-work-system](https://github.com/hsinchu-gima-software/fengyan-work-system)
+- Modbus 模擬器：[bw-modbus-simulator](https://github.com/hsinchu-gima-software/bw-modbus-simulator)、[FYWorkSys.ModbusTestTool](https://github.com/hsinchu-gima-software/FYWorkSys.ModbusTestTool)
+- WiFi Scale 模組：[yingzhan-wifi-scale-module](https://github.com/hsinchu-gima-software/yingzhan-wifi-scale-module)
 
 ## 團隊
 - Rex
